@@ -102,7 +102,9 @@ theme: nexmoe
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/LDxiaodi/LDxiaodi.github.io.git
+  branch: master
 
 # 配置index2 generator，可以是数组或对象
 index2_include_index: true
