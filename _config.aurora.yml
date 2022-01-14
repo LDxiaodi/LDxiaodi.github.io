@@ -249,9 +249,9 @@ aurora_bot:
       # 悬浮在 About 菜单
       - selector: "[data-menu='About']"
         text:
-          - 你想知道我家主人是谁吗？
-          - 这里有一些关于我家主人的秘密哦，要不要看看呢？
-          - 发现主人出没地点！
+          - 点击查看关于Telos的更多信息。
+          - 这里似乎有一个<span>传送门<span>?
+          - 想看看其他的<span>档案库<span>吗?点击这里。
       # 悬浮在 Archives 菜单
       - selector: "[data-menu='Archives']"
         text:
