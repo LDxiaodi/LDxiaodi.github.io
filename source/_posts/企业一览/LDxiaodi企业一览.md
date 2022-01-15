@@ -2,7 +2,6 @@
 title: LDxiaodi企业一览
 categories: 企业一览
 excerpt: <hr/>
-feature: true
 tag:
 - Telos基础设定
 - 月工联合
