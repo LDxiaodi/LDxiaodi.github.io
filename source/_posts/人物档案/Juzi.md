@@ -3,6 +3,7 @@ title: Juzi
 categories: 人物档案
 excerpt: <hr/>
 tag:
+- Juzi
 ---
 
 ## 基础档案
