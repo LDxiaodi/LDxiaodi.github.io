@@ -1,6 +1,6 @@
 ---
-title: LDxiaodi企业一览
-categories: 企业一览
+title: LDxiaodi的企业登记表
+categories: 大陆杂设
 excerpt: <hr/>
 tag:
 - Telos基础设定
